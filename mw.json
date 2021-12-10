@@ -1,0 +1,12 @@
+{
+        "services": {
+                "pyservice": {
+                    "name": "Python Service 1",
+                    "root_dir": "/",
+                    "build": [],
+                    "command": "python3 app.py",
+                    "arguments" : [],
+                    "port": "8080"
+                }
+        }
+}
